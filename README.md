@@ -1,4 +1,4 @@
-# repository_template
+# vhin-egs
 
 Description of repository contents 
 
