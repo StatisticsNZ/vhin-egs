@@ -1,7 +1,8 @@
 # vhin-egs
 
-Description of repository contents 
+Example code from the [Virtual Health Information Network](https://vhin.co.nz/), analysing the New Zealand Integrated Data Infrastructure (IDI).
 
+This repository of code is provided as an example of SAS and SQL in combination for analysis in the [New Zealand Integrated Data Infrastructure](http://m.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure.aspx) (IDI).  
 
 
 ---
