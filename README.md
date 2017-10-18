@@ -5,6 +5,10 @@ Example code from the [Virtual Health Information Network](https://vhin.co.nz/),
 This repository of code is provided as an example of SAS and SQL in combination for analysis in the [New Zealand Integrated Data Infrastructure](http://m.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure.aspx) (IDI).  
 
 
+## Usage
+
+Usage requires a [project with access to the IDI](http://www.stats.govt.nz/tools_and_services/microdata-access/data-lab.aspx), and asking the Microdata access team to drop a copy of the code into your research folder in the secure Data Lab.
+
 ---
 __Copyright and Licensing__
 
